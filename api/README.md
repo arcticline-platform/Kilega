@@ -28,6 +28,11 @@ The project demonstrate to use of [Flask](https://flask.palletsprojects.com/en/2
 7. [Pytest](https://docs.pytest.org/en/7.2.x/)
 
 ## Running the project 
+### Requirements
+- Python 3.9.5 or higher
+- Requirements text file
+- Access to GitHub repository
+- Linux/MacOs/Windows Operating System (OS)
 ### Step 1:
 Clone the project reposity
 ```
