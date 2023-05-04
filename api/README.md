@@ -37,7 +37,7 @@ git clone https://github.com/arcticline/Kilega.git
 Change directory to project folder, create a virtual environment and activate it
 
 ```
-$ cd Kilega
+$ cd Kilega/api
 $ python -m venv env
 $ source env/bin/activate
 ```
