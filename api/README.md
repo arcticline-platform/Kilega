@@ -36,7 +36,7 @@ The project demonstrate to use of [Flask](https://flask.palletsprojects.com/en/2
 ### Step 1:
 Clone the project reposity
 ```
-git clone https://github.com/arcticline/Kilega.git
+git clone https://github.com/arcticline-platform/Kilega.git
 ```
 ### Step 2:
 Change directory to project folder, create a virtual environment and activate it
