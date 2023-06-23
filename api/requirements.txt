@@ -1,8 +1,9 @@
 Flask
 Flask-RESTX
-Flask-SQLAlchemy
+Flask-PyMongo
 Flask-JWT-Extended
 Flask-Migrate
+Flask-CORS
 Python-dotenv
 python-decouple
 pytest
